@@ -67,7 +67,7 @@ os.system(cmd)
 print "Fertig:", outfile
 ```python
 
-
+---
 
 ## 📜 Usage
 
@@ -81,6 +81,7 @@ Prompt eingeben: amiga cyberpunk neon city
 Starte Download...
 Fertig: RAM:pollinations_20260517_153245.jpg
 
+---
 
 ## 📜 Output
 
@@ -92,6 +93,7 @@ Example:
 
 RAM:pollinations_20260517_153245.jpg
 
+---
 
 ## 📜 Notes for Amiga Users
 
@@ -104,6 +106,7 @@ Example improved curl line:
 
 curl --tlsv1.2 -L -k "<url>" -o "<file>"
 
+---
 
 ## 📜 Why this exists
 
@@ -116,7 +119,8 @@ modern AI image APIs
 
 Public domain / DIY retro computing use.
 
-💾 Compatibility
+---
+## 💾 Compatibility
 System	Status
 AmigaOS	✅
 MorphOS	✅
@@ -124,6 +128,7 @@ AROS	✅
 Linux (old Python)	✅
 Modern Python 3	❌ (not needed)
 
+---
 
 ## 📜 Example prompt ideas
 
