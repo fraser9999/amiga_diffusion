@@ -1,0 +1,8 @@
+;BEGIN Python 2.0
+ASSIGN Python: work:Python/Python-2.0
+ASSIGN PYTHONHOME: work:Python/Python-2.0/lib/python2.0
+ASSIGN Pythonlib: work:Python/Python-2.0/Lib/Python2.0
+PATH Python: ADD
+PATH Pythonhome: ADD
+PATH Pythonlib: ADD
+;END Python 2.0
